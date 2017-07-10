@@ -1,0 +1,39 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\bin\Debug\SchoolAutomationSystem.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\bin\Debug\SchoolAutomationSystem.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.Properties.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.csproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AdminLogin.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AdminLogin2.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AddTeacher.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\bin\Debug\SchoolAutomationSystem.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\bin\Debug\SchoolAutomationSystem.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AdminLogin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.TeacherLogin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.StudentLogin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.StudentLogedForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\bin\Debug\SchoolDB.mdf
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\bin\Debug\SchoolDB_log.ldf
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\bin\Debug\SchoolAutomationSystem.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.TeacherLogedForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AddTeacherForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AdminLogedForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AddStudent.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.EditTeacherDetails.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.EditStudent.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.DeleteStudent.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.DeleteTeacher.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.AddAdmin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.EditAdmin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.DeleteAdmin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.TimeTableScheduling.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.ViewTimeTable.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\SchoolAutomationSystem\SchoolAutomationSystem\obj\x86\Debug\SchoolAutomationSystem.EditTimeTable.resources

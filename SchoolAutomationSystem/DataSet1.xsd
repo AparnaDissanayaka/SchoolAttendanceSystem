@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SchoolDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SchoolDBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SchoolAutomationSystem.Properties.Settings.GlobalReference.Default.SchoolDBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View1TableAdapter" GeneratorDataComponentClassName="View1TableAdapter" Name="View1" UserDataComponentName="View1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SchoolDBConnectionString (Settings)" DbObjectName="dbo.View1" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT RegNo, Date, Name, Grade, Attendance FROM dbo.View1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="RegNo" DataSetColumn="RegNo" />
+              <Mapping SourceColumn="Date" DataSetColumn="Date" />
+              <Mapping SourceColumn="Name" DataSetColumn="Name" />
+              <Mapping SourceColumn="Grade" DataSetColumn="Grade" />
+              <Mapping SourceColumn="Attendance" DataSetColumn="Attendance" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View1" msprop:Generator_TableClassName="View1DataTable" msprop:Generator_TableVarName="tableView1" msprop:Generator_TablePropName="View1" msprop:Generator_RowDeletingName="View1RowDeleting" msprop:Generator_RowChangingName="View1RowChanging" msprop:Generator_RowEvHandlerName="View1RowChangeEventHandler" msprop:Generator_RowDeletedName="View1RowDeleted" msprop:Generator_UserTableName="View1" msprop:Generator_RowChangedName="View1RowChanged" msprop:Generator_RowEvArgName="View1RowChangeEvent" msprop:Generator_RowClassName="View1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RegNo" msprop:Generator_ColumnVarNameInTable="columnRegNo" msprop:Generator_ColumnPropNameInRow="RegNo" msprop:Generator_ColumnPropNameInTable="RegNoColumn" msprop:Generator_UserColumnName="RegNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Grade" msprop:Generator_ColumnVarNameInTable="columnGrade" msprop:Generator_ColumnPropNameInRow="Grade" msprop:Generator_ColumnPropNameInTable="GradeColumn" msprop:Generator_UserColumnName="Grade" type="xs:int" minOccurs="0" />
+              <xs:element name="Attendance" msprop:Generator_ColumnVarNameInTable="columnAttendance" msprop:Generator_ColumnPropNameInRow="Attendance" msprop:Generator_ColumnPropNameInTable="AttendanceColumn" msprop:Generator_UserColumnName="Attendance" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
